@@ -1,0 +1,20 @@
+﻿<score bpm="180" beatspermeasure="4">
+	<instrument instrument="ToneInstrument">
+		<note measure="1" beat="1" duration="0.5" note="C3" h1=".5" adsr="0 0 0 3"/>
+		<note measure="1" beat="1.5" duration="0.5" note="E3" h1=".5" adsr="0 0 0 3"/>
+		<note measure="1" beat="2" duration="0.5" note="G3" h1=".5" adsr="0 0 0 3"/>
+		<note measure="1" beat="2.5" duration="0.5" note="C4" h1=".5" adsr="0 0 0 3"/>
+		<note measure="1" beat="3" duration="0.5" note="E4" h1=".5" adsr="0 0 0 3"/>
+		<note measure="1" beat="3.5" duration="0.5" note="G4" h1=".5" adsr="0 0 0 3"/>
+		<note measure="2" beat="1" duration="0.5" note="C3" h1=".6" adsr="0 0 0 3"/>
+		<note measure="2" beat="1.5" duration="0.5" note="D3" h1=".6" adsr="0 0 0 3"/>
+		<note measure="2" beat="2" duration="0.5" note="F3" h1=".6" adsr="0 0 0 3"/>
+		<note measure="2" beat="2.5" duration="0.5" note="A3" h1=".6" adsr="0 0 0 3"/>
+		<note measure="2" beat="3" duration="0.5" note="C4" h1=".6" adsr="0 0 0 3"/>
+		<note measure="2" beat="3.5" duration="0.5" note="D4" h1=".6" adsr="0 0 0 3"/>
+		<note measure="3" beat="1" duration="0.5" note="E3" h1=".7" adsr="0 0 0 3"/>
+		<note measure="3" beat="1.5" duration="0.5" note="G3" h1=".7" adsr="0 0 0 3"/>
+		<note measure="3" beat="2" duration="0.5" note="B3" h1=".7" adsr="0 0 0 3"/>
+	</instrument>
+</score>
+
