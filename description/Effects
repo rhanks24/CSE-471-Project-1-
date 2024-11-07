@@ -13,8 +13,9 @@ Effect refers to a process that alters or modifies the sound of an instrument or
 (1) Compression: Compression is an audio signal processing operation that reduces the volume of loud sounds or amplifies quiet sounds, thus reducing or compressing an audio signal's dynamic range. Compression is commonly used in sound recording and reproduction, broadcasting,[1] live sound reinforcement and some instrument amplifiers.
 
 
-- The score file is set up to produce compression effect.
+(2) Noise Gate: noise gate or simply gate is an electronic device or software that is used to control the volume of an audio signal. Comparable to a compressor, which attenuates signals above a threshold, such as loud attacks from the start of musical notes, noise gates attenuate signals that register below the threshold.
 
+(3) CHorus: Chorus  is an audio effect that occurs when individual sounds with approximately the same time, and very similar pitches, converge. While similar sounds coming from multiple sources can occur naturally, as in the case of a choir or string orchestra, it can also be simulated using an electronic effects unit or signal processing device.
 
 
 Grading Rubric
