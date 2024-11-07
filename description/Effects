@@ -4,6 +4,18 @@ Effect
 Effect refers to a process that alters or modifies the sound of an instrument or voice, often to create a specific auditory texture, ambiance, or character.
 
 
+### Supported Components
+	<instrument instrument="AdditiveInstrument">
+		﻿<score bpm="180" beatspermeasure="4">
+	<instrument instrument="ToneInstrument">
+		<note measure="1" beat="1" duration="0.5" note="C3" h1=".5" adsr="0 0 0 3"/>
+
+(1) Compression: Compression is an audio signal processing operation that reduces the volume of loud sounds or amplifies quiet sounds, thus reducing or compressing an audio signal's dynamic range. Compression is commonly used in sound recording and reproduction, broadcasting,[1] live sound reinforcement and some instrument amplifiers.
+
+
+- The score file is set up to produce compression effect.
+
+
 
 Grading Rubric
 
