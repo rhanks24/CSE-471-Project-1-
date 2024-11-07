@@ -8,6 +8,6 @@ Additive Synthesis: Pilseo Park
 
 Format of Score Files
 
-<score bpm="180" beatspermeasure="4">
-	<instrument instrument="ToneInstrument">
+"<score bpm="180" beatspermeasure="4">
+	<instrument instrument="ToneInstrument">"
 
