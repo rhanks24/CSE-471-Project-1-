@@ -2,6 +2,7 @@
 Project 1 Submission 
 
 Group Member: Ryan Hanks
+
 Effects: Ryan Hanks
 
 Wavetable Synthesis: Ryan Hanks
