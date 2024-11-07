@@ -1,0 +1,36 @@
+Wave Table Synthesizer 
+
+  Wavetable synthesis uses very short audio recordings consisting of one or a few waveforms of a sound.  These recordings can be cut from a recording of a real instrument or created mathematically.
+
+
+  Supported Components
+<instrument instrument="ToneInstrument">
+	<!-- Intro -->
+		<note measure="1" beat="1" duration="0.75" note="D3" h1=".4" flanging="0.4" adsr="1 1 1 2"/>
+		<note measure="1" beat="1.75" duration="0.75" note="F3" h1=".4" adsr="1 1 1 2"/>
+		<note measure="1" beat="2.5" duration="0.75" note="A3" h1=".4" adsr="1 1 1 2"/>
+
+  
+  Envelope Generation
+
+  How an instrument starts the sound and sustains it varies, but usually has a volume characteristic to it.  An example, a violin may slowly start the sound of a note or quickly start it for different songs.  This is called an "attack".  Many instruments have a rapid decay after the attack, then sustain at another level, only to gradually decay at the end.  In all cases for a wavetable synthesis component you will need to be able to fade the sound at the end over several milliseconds to avoid a "pop". 
+
+    Pitch
+
+    Pitch means you can playback a wave at some rate other than what it was recorded at.  As a simple example, if you skip every other sample, you will play back the wave twice as fast, so the pitch is doubled.  We discussed in class how to implement pitch for sample and wave playback.
+
+      Grading Rubric
+
+      10 - Wave playback on demand from the sequencer
+
+            + 10 xlm file pays and produces wav file 
+      
+      20 - Envelope generation
+
+          + synthesizer works fine 
+      
+      30 - Pitch
+
+          + synthesizer works fine 
+
+  
