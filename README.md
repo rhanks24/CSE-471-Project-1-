@@ -14,7 +14,7 @@ Wavetable Synthesis: Ryan Hanks
 
 ### Score Files
 Score files are stored in the score folder.
-The "music" produced by the score file were created through Chat GPT, and modifications were made on top of that score file.
+The "music" produced by the score file were created through Chat GPT, and modifications were made through the solution file.
 
 Full score file: [full.score](https://github.com/rhanks24/CSE-471-Project-1-/blob/main/scores/full.score)
 
