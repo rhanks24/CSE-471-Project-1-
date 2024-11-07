@@ -11,7 +11,7 @@ Wavetable Synthesis: Ryan Hanks
 	\<instrument instrument="ToneInstrument">
 
 
-###Score Files
+### Score Files
 Score files are stored in the score folder.
 The "music" produced by the score file were created through Chat GPT, and modifications were made on top of that score file.
 
